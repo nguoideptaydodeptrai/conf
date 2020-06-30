@@ -8,5 +8,5 @@
 "LOBBY_SCENE_NAME": "LobbyNew",
 "LOGIN_SCENE_NAME": "Login",
 "IPMaster1": "wss://bc1-master.wskt25b.com/v3/:443/",
-"IPMaster3": "wss://bc52-master.monerox.net/"
+"IPMaster3": "wss://bc-master.wskt25b.com/"
 }
